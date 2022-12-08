@@ -59,7 +59,7 @@ const Header = () => {
               <span>
                 <i class="ri-fire-fill"></i>
               </span>
-              Gujkala
+             Blue Sky
             </h2>
           </div>
 
