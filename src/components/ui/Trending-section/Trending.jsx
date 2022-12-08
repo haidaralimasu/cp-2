@@ -73,7 +73,7 @@ const Trending = () => {
       <Container>
         <Row>
           <Col lg="12" className="mb-5">
-            <h3 className="trending__title">Buy Artifacts</h3>
+            <h3 className="trending__title">Trending NFTs</h3>
           </Col>
           {data.slice(0, 4).map((item, i) => (
             <Col lg="3" md="4" sm="6" className="mb-4" key={item.id}>
