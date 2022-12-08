@@ -122,7 +122,7 @@ const Contact = () => {
                 <div className="filter__left d-flex align-items-center gap-5">
                   <div className="all__category__filter">
                     <select onChange={handleCategory}>
-                      <option>Listed Artifacts</option>
+                      <option>Listed NFTs</option>
                     </select>
                   </div>
                 </div>
@@ -182,7 +182,7 @@ const Contact = () => {
                 <div className="filter__left d-flex align-items-center gap-5">
                   <div className="all__category__filter">
                     <select onChange={handleCategory}>
-                      <option>Collected Artifacts</option>
+                      <option>Collected NFTs</option>
                     </select>
                   </div>
                 </div>
