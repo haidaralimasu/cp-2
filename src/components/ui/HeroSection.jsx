@@ -13,12 +13,10 @@ const HeroSection = () => {
           <Col lg="6" md="6">
             <div className="hero__content">
               <h2>
-                Taking Gujarat's Cultural Heritage To
-                <span>Great Height</span> through NFTs
-              </h2>
+               Taking NFTs to Next Level through
+                <span>Blue Sky</span> </h2>
               <p>
-                Gujkala is a protocol that uses blockchain technology and NFTs
-                to represent Gujarat Valuable Heritage Items through NFTs.
+                 We have developed a NFT Marketplace where People can trade assets in exchange of crypto.
               </p>
 
               <div className="hero__btns d-flex align-items-center gap-4">
